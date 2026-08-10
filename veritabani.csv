@@ -1,0 +1,38 @@
+Malzeme,Uretim_Yontemi,Karbon_Faktoru_kg_CO2_per_kg,Maliyet_USD_per_kg,Mavi_Su_Ayak_Izi_L_per_kg
+Titanyum ve Alaşımları (Ti-6Al-4V),Talaşlı İmalat (CNC),45.0,90.0,150.0
+Titanyum ve Alaşımları (Ti-6Al-4V),3D Printing,25.0,120.0,140.0
+Titanyum ve Alaşımları (Ti-6Al-4V),Dövme,35.0,85.0,135.0
+Medikal Sınıf Paslanmaz Çelik (316L),Talaşlı İmalat (CNC),5.58,15.0,85.0
+Medikal Sınıf Paslanmaz Çelik (316L),3D Printing,10.5,25.0,83.0
+Medikal Sınıf Paslanmaz Çelik (316L),Lazer Kesim,6.0,18.0,77.0
+Kobalt-Krom (Co-Cr) Alaşımları,Talaşlı İmalat (CNC),35.0,110.0,115.0
+Kobalt-Krom (Co-Cr) Alaşımları,3D Printing,32.0,140.0,112.0
+Altın,Talaşlı İmalat (CNC),5100.0,75000.0,80100.0
+Platin,Talaşlı İmalat (CNC),20600.0,30000.0,120100.0
+Gümüş,Talaşlı İmalat (CNC),275.0,800.0,5020.0
+Polivinil Klorür (PVC),Enjeksiyon Kalıplama,7.83,3.0,10.0
+Polivinil Klorür (PVC),Ekstrüzyon,7.5,2.8,9.5
+Polipropilen (PP),Enjeksiyon Kalıplama,1.95,2.5,7.4
+Polipropilen (PP),Ekstrüzyon,1.8,2.3,6.9
+Biyo-Bazlı Polipropilen (Biyo-PP),Enjeksiyon Kalıplama,0.85,5.0,136.5
+Biyo-Bazlı Polipropilen (Biyo-PP),Ekstrüzyon,0.82,4.8,136.0
+Ultra Yüksek Moleküler Ağırlıklı Polietilen (UHMWPE),Talaşlı İmalat (CNC),2.75,12.0,20.0
+Polietereterketon (PEEK),Talaşlı İmalat (CNC),13.5,100.0,55.0
+Polietereterketon (PEEK),3D Printing,14.0,120.0,53.0
+Polietereterketon (PEEK),Enjeksiyon Kalıplama,13.2,95.0,47.0
+Polilaktik Asit (PLA),3D Printing,1.6,4.5,145.0
+Polilaktik Asit (PLA),Enjeksiyon Kalıplama,1.55,4.0,144.0
+PET,Enjeksiyon Kalıplama,3.0,2.5,11.5
+Alümina,Talaşlı İmalat (CNC),2.15,40.0,33.2
+Alümina,3D Printing,2.3,55.0,23.2
+Zirkonya,Talaşlı İmalat (CNC),2.85,70.0,40.0
+Zirkonya,3D Printing,3.0,85.0,30.0
+Hidroksiapatit,3D Printing,1.5,80.0,40.0
+CFRP,Talaşlı İmalat (CNC),37.5,50.0,70.0
+Silikon,Enjeksiyon Kalıplama,7.8,10.0,32.0
+Silikon,Ekstrüzyon,7.5,9.5,31.5
+TPU,Enjeksiyon Kalıplama,6.25,8.0,16.5
+TPU,Ekstrüzyon,6.0,7.5,16.0
+Lateks,Enjeksiyon Kalıplama,3.25,4.0,81.5
+EPDM,Enjeksiyon Kalıplama,5.0,5.0,22.0
+EPDM,Ekstrüzyon,4.5,4.8,21.5pip install plotly
