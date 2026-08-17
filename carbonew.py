@@ -221,6 +221,22 @@ def inject_css() -> None:
         
         /* Expander (Akordeon) için Dark Mode Uyumu */
         .st-emotion-cache-1z7u2k5 {{ background-color: var(--card-bg) !important; border-color: var(--border-color) !important; }}
+        
+        /* ==================================================== */
+        /* ---- MOBİL UYUM (RESPONSIVE DESIGN) EKLENTİSİ ---- */
+        /* ==================================================== */
+        @media (max-width: 1024px) {{
+            h1.hero-title {{ font-size: 6rem !important; }}
+        }}
+        @media (max-width: 768px) {{
+            h1.hero-title {{ font-size: 4rem !important; }}
+            .hero-eyebrow {{ font-size: 0.75rem !important; text-align: center; }}
+            .hero-footer {{ flex-direction: column; gap: 8px; text-align: center; font-size: 0.65rem; }}
+        }}
+        @media (max-width: 480px) {{
+            h1.hero-title {{ font-size: 2.6rem !important; letter-spacing: 0.02em !important; }}
+            .hero-eyebrow {{ font-size: 0.65rem !important; letter-spacing: 0.15em; }}
+        }}
         </style>
     """
     st.markdown(css, unsafe_allow_html=True)
